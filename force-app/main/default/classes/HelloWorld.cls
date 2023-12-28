@@ -3,7 +3,7 @@ public with sharing class HelloWorld {
         integer a;
         integer b:
         integer c:
-        c=a+b;
+        c=a*b;
         system.debug('c:'+c);
         system.debug('c:'+c);
     }
