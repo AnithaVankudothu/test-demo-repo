@@ -1,6 +1,9 @@
 public with sharing class HelloWorld {
     public void Message() {
-        system.debug('Hello World');
-        system.debug('check changes');
+        integer a;
+        integer b:
+        integer c:
+        c=a+b;
+        system.debug('c:'+c);
     }
 }
